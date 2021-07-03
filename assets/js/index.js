@@ -22,4 +22,4 @@ $('[data-toggle="tooltip"]').tooltip();
 
 // popover
 
-$(".example-popover").popover();
+$('[data-toggle="popover"]').popover();
