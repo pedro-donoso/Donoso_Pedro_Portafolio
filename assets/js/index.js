@@ -1,6 +1,4 @@
-
 // smooth control
-
 
 $(document).ready(function () {
   $("a").click(function (event) {
@@ -18,3 +16,10 @@ $(document).ready(function () {
   });
 });
 
+// tooltip
+
+$('[data-toggle="tooltip"]').tooltip();
+
+// popover
+
+$(".example-popover").popover();
