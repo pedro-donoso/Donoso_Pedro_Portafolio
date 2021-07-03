@@ -13,7 +13,7 @@ nav {
 /* Hero Section */
 
 #Hero-Section {
-  height: 90vh;
+  height: 100vh;
   background: url("../img/bg_hero.png");
   background-repeat: no-repeat;
   background-size: cover;
